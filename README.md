@@ -7,8 +7,9 @@
 :arrow_forward: **Multi-Platform Support** Compatible with Twitch, YouTube, and Trovo.
 :lock: **Singleplayer Game** Every user has it's own Game instance!
 
+**CBJG may not work properly with alpha version of SB!**
 
-[center][wrap="warning"]CBJG may not work properly with alpha version of SB![/wrap][/center]
+
 # **Import Files**  
 :inbox_tray: **[Releases](https://github.com/aaskjer/blackjackforSB/releases)**
 
