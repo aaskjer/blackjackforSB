@@ -35,9 +35,7 @@
 
 # **Changelogs**
 
-**v7**
-* Now, the game creates one shared deck per game instance. Dealer and the player draw from the same shared shuffled deck, unlike before.
-* Renamed the Scene to `Blackjack - Game` to prevent overwriting old setups
-* The Game now correctly set up a scene and a browser source for the cards in OBS. 
-  * All you need to do is, drop the `cards` folder in the root folder of your streamer.bot and everything should be good.
-  * The Design for the game is up to you, but you still can use `source copy` to import my copy of the game if you want to use my images.
+**v8**
+* Whole code was reworked to now work with actual commands.
+* Added the same cooldown action already known from my other games.
+* Removed now unnecessary code for caching bots and stuff, everything related to bots is now handled in streamer.bot.
