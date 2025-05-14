@@ -31,3 +31,4 @@
 - `hit`: Draw an additional card.
 - `stand`: End your turn and let the dealer play.
 - `repeat`: for crowded chats so you can see your current cards again.
+- `resettut`: (only moderators) to reset the one-time tutorial to show up again.
